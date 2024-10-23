@@ -1,0 +1,15 @@
+day_night_max=15000
+day_night_min=500
+disable_eth=false
+enable_updates=true
+gpio_default=57o 58o 61o
+gpio_ircut=57 58
+gpio_wlan=61o
+gpio_white=49o
+gpio_motor_h=6 8 7 9
+gpio_motor_v=10 16 14 17
+motor_maxstep_h=810
+motor_maxstep_v=155
+wlandev=8733bu
+osmem=74M@0x0
+rmem=54M@0x4A00000
